@@ -1,1 +1,0 @@
--- Various routine for working with points in the system
